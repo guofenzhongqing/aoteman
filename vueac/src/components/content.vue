@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <section>
+      <h2>会当凌绝顶，一览众山小。</h2>
+    </section>
 </template>
 
 <script>
