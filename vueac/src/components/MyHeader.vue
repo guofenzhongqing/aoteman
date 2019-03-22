@@ -13,5 +13,8 @@
 </script>
 
 <style scoped>
-
+section {
+  background-color: lightskyblue;
+  text-align: center;
+}
 </style>
